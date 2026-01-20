@@ -21,4 +21,5 @@ Perfect for:
 - Total energy consumption calculation
 
 Example output:
+
  <img width="346" height="239" alt="image" src="https://github.com/user-attachments/assets/5b0b2274-878b-4907-8a8c-86010af11341" />
